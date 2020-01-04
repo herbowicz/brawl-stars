@@ -1,2 +1,2 @@
 # brawl-stars
-What Brawlers say + API http://cod.eco/brawl
+What Brawlers say + API 
